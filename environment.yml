@@ -1,0 +1,18 @@
+name: ds000228-fmri-project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - seaborn
+  - ipython
+  - numpy
+  - matplotlib
+  - nibabel
+  - nilearn
+  - pandas
+  - flake8
+  - scipy
+  - jupyter
+  - jupyterlab
+prefix: /Users/lisa/miniconda3/envs/ds000228-fmri-project
